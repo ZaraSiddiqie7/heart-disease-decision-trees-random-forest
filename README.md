@@ -1,6 +1,6 @@
 # Task 5: Decision Trees and Random Forests
 
-Internship Task (Elevate Labs – Data Analyst Internship)
+Internship Task (Elevate Labs – ALML Internship)
 
 ## Objective
 Learn tree-based models for classification using the Heart Disease Dataset — training and visualizing a Decision Tree, controlling overfitting, comparing against a Random Forest, interpreting feature importance, and validating results with cross-validation.
